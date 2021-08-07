@@ -5,10 +5,6 @@
  */
 package bankeralgo;
 
-/**
- *
- * @author adity
- */
 public class BankerAlgo {
 
     /**
